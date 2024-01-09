@@ -1,4 +1,4 @@
-import Person from "../../../../Assets/People/person-20.png"
+import Person from "../../../../Assets/person-20.png"
 export default function TestimonialCard(props) {
     return (
         <article className="testimonial-card">
